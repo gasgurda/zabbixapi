@@ -1,4 +1,5 @@
 First Line
+Second Line
 
 
 # Ruby Zabbix Api Module
